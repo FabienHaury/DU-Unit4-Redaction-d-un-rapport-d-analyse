@@ -1,2 +1,2 @@
-# DU-Unit4-Redaction-d-un-rapport-d-analyse
-Nous allons r´ealiser ici une premi`ere analyse de jeux de donn´ees o`u les r´esultats ne sont pas parfaitement connus `a l’avance, et votre mission consiste `a obtenir des r´esultats nouveaux, `a les organiser, les d´ecrire, les interpr´eter
+# DU - Unit4 - Rédaction d'un rapport d'analyse
+Nous allons réaliser ici une premiére analyse de jeux de données où les résultats ne sont pas parfaitement connus à l’avance, et votre mission consiste à obtenir des résultats nouveaux, à les organiser, les décrire, les interpréter.
