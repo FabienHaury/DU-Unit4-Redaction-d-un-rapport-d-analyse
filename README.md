@@ -4,14 +4,14 @@ Nous allons réaliser ici une premiére analyse de jeux de données où les rés
 ---
 
 ## Objectifs : 
+- Utilisation d'un jeu de données non fourni.
 - Rédaction d'un rapport d'analyse.
   - Structure IMRAD (Introduction - Methodologie - Résulats - Discusions)
-- Utilisation d'un jeu de données non fourni.
+- Principe de méthode hypothético-déductive/Méthode exploratoire, etc.
 
 ---
 
 ## Données :
-
 - Les données sont issues des questionnaires annuels de [kaggle.com](https://www.kaggle.com/) pour les années suivantes :
   - [2018](https://www.kaggle.com/datasets/kaggle/kaggle-survey-2018)
   - [2019](https://www.kaggle.com/competitions/kaggle-survey-2019/data)
@@ -37,7 +37,6 @@ Nous allons réaliser ici une premiére analyse de jeux de données où les rés
 ---
 
 ## Contact
-
 Projet mené dans le cadre de mon Diplôme Universitaire Data Analyst par Cergy Paris Université (2022).   
 Pour me contacter : 
 - [email](mailto:67912775+FabienHaury@users.noreply.github.com)
